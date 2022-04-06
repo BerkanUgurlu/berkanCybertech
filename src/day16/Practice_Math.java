@@ -27,7 +27,6 @@ public class Practice_Math {
                     break;
                 case '+':
                     System.out.println(num1+num2);
-
                     break;
                 default:
                     System.out.println(num1-num2);
